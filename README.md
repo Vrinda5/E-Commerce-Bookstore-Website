@@ -6,3 +6,7 @@ Steps to proceed:
 3. Go to the project and run - npm install 
 4. npm install command will download all the node modules dependency of this project 
 5. For Mongo DB use , please use your own mongo link, user and password. 
+6. Mongo use - please whitelist your IP address as well in network tab on mongo.
+7. Run the server using - npm start
+8. Go to http://localhost:3000  to load the website. 
+
